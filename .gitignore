@@ -1,0 +1,10 @@
+.idea
+.idea*
+.iml
+.ipr
+.iws
+target
+out
+.history
+
+
